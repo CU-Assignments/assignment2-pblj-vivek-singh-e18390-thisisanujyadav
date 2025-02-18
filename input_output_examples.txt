@@ -1,0 +1,30 @@
+1. Product-->
+
+Product Details:
+ID: 101
+Name: Laptop
+Price: 75000.0
+
+2. LibraryManagement-->
+
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500.0
+
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700.0
+
+3. StudentInfoSystem-->
+
+Student Details:
+Name: Alice
+Age: 20
+Roll Number: 101
+
+Teacher Details:
+Name: Mr. Smith
+Age: 40
+Subject: Mathematics
